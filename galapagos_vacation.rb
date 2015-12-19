@@ -1,0 +1,6 @@
+departure_date = "May 1"
+return_date = "May 14"
+hotel_name = "Iguana Crossing"
+num_of_iguanas = "20"
+favorite_beach = "Santa Cruz Island"
+num_of_tortoises = "6"
